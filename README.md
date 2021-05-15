@@ -22,5 +22,10 @@ So this is become faster.
         <li>Local memory caching</li>
     </ul>
 <li style="margin:5px 0px;"><strong>Template Fragment</strong></li>
+    <ul>
+        <li>Database caching</li>
+        <li>File system caching</li>
+        <li>Local memory caching</li>
+    </ul>
 <li><strong>Low Level cache API</strong></li>
 </ul>

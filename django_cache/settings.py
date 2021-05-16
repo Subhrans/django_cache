@@ -118,9 +118,19 @@ STATIC_URL = '/static/'
 
 CACHE_MIDDLEWARE_SECONDS = 60
 
+
+# Per site Cache using  Database Cache
+# CACHES = {
+#     'default': {
+#         'BACKEND': 'django.core.cache.backends.db.DatabaseCache',
+#         'LOCATION': 'app_cache',
+#     }
+# }
+
+# Per site Cache using File Based Cahce
 CACHES = {
     'default': {
-        'BACKEND': 'django.core.cache.backends.db.DatabaseCache',
+        'BACKEND': 'django.core.cache.backends.filebased.FileBasedCache',
         'LOCATION': 'app_cache',
     }
 }

@@ -2,26 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="390b924d-33c0-4d63-bcdf-09590fd09ff3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/per_view_cache/app2/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/app2/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/app2/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/app2/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/app2/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/app2/templates/app2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/app2/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/app2/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/per_view_cache/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/per_view_cache/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/per_view_cache/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/per_view_cache/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/per_view_cache/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/per_view_db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_cache/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_cache/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/per_view_cache/app2/templates/app2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/per_view_cache/app2/templates/app2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/per_view_cache/per_view_cache/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_view_cache/per_view_cache/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/per_view_cache/per_view_db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/per_view_cache/per_view_db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621186969858</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Per view cache using DB">
+      <created>1621273932542</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1621273932542</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -102,6 +93,7 @@
     <MESSAGE value="updated Readme" />
     <MESSAGE value="Per site cache using DB" />
     <MESSAGE value="Per site cache using FileBased" />
-    <option name="LAST_COMMIT_MESSAGE" value="Per site cache using FileBased" />
+    <MESSAGE value="Per view cache using DB" />
+    <option name="LAST_COMMIT_MESSAGE" value="Per view cache using DB" />
   </component>
 </project>

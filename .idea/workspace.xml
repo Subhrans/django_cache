@@ -2,40 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="390b924d-33c0-4d63-bcdf-09590fd09ff3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/per_site_cache/app/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/per_view_app/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/per_view_app/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/per_view_cache/per_view_app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/per_site_cache/app/templates/app/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/per_site_cache/app/templates/app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/per_site_cache/per_site.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_site_cache/app/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_site_cache/app/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/apps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_site_cache/app/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_site_cache/app/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/templates/app/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/per_view_cache/per_view_app/templates/app2/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_site_cache/app/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_cache/a7476b12ea508782a91df770076d4133.djcache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_cache/bc34fe040f1a452e84466b14052196bd.djcache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_cache/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_site_cache/per_site_cache/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_cache/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_site_cache/per_site_cache/asgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_cache/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_site_cache/per_site_cache/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_cache/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_site_cache/per_site_cache/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/django_cache/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_site_cache/per_site_cache/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_site_cache/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/per_view_cache/app2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_view_cache/per_view_app/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/per_view_cache/app2/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_view_cache/per_view_app/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/per_view_cache/app2/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_site_cache/app/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/per_view_cache/app2/migrations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_view_cache/per_view_app/migrations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/per_view_cache/app2/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_view_cache/per_view_app/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/per_view_cache/app2/templates/app2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/per_view_cache/per_view_app/templates/app2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/per_view_cache/app2/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_view_cache/per_view_app/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/per_view_cache/app2/views.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/per_view_cache/per_view_cache/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_view_cache/per_view_cache/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/per_view_cache/per_view_cache/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_view_cache/per_view_cache/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/per_view_cache/per_view_db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/per_view_cache/per_view_db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/per_site_cache/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_site_cache/app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/per_site_cache/per_site_cache/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_site_cache/per_site_cache/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/per_site_cache/per_site_cache/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_site_cache/per_site_cache/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/per_view_cache/per_view_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/per_view_cache/per_view_app/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,10 +42,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/per_site_cache/app" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\DjangoProjects\django_cache\per_site_cache\app" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\DjangoProjects\django_cache\per_view_cache\per_view_app" />
     </key>
@@ -127,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621274146433</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Per view cache using DB working">
+      <created>1621427098334</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1621427098334</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -138,6 +122,7 @@
     <MESSAGE value="Per site cache using FileBased" />
     <MESSAGE value="Per view cache using DB" />
     <MESSAGE value="Per view cache using DB some error" />
-    <option name="LAST_COMMIT_MESSAGE" value="Per view cache using DB some error" />
+    <MESSAGE value="Per view cache using DB working" />
+    <option name="LAST_COMMIT_MESSAGE" value="Per view cache using DB working" />
   </component>
 </project>

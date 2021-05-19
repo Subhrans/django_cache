@@ -1,10 +1,8 @@
 from django.contrib import admin
-from django.urls import path
-from app2 import views
+from django.urls import path, include
 from django.views.decorators.cache import cache_page
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('cache/', cache_page(30)(views.index_view),name="e"),
-    path('gomew/',views.index_view, name="gome"),
+    path('', include('per_view_app.urls')),
 ]

@@ -1,5 +1,5 @@
 """
-ASGI config for django_cache project.
+ASGI config for per_site_cache project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'django_cache.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'per_site_cache.settings')
 
 application = get_asgi_application()

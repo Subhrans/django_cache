@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+{% load cache %}
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <center><h1>PER SITE CACHE</h1></center>
+    {% cache None my_cache %}
+    <h1>welcome 1</h1>
+    <h1>welcome 2</h1>
+    <h1>welcome 3</h1>
+    {% endcache %}
+    <p>hello subhansu das this is cache</p>
+</body>
+</html>

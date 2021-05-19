@@ -5,8 +5,8 @@ from django.shortcuts import render
 # Create your views here.
 # @cache_page(30)
 def index_view(request):
-    return render(request, 'app/index.html')
+    return render(request, 'app2/index.html')
 
 
 def non_cache_view(request):
-    return render(request, 'app/contact.html')
+    return render(request, 'app2/contact.html')
